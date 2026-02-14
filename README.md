@@ -1,3 +1,5 @@
+⭐ AI Internship Program – Task 01: Exploratory Data Analysis & Data Storytelling
+
 # 🛒 Retail Sales Performance Analysis (EDA)
 
 ## 📌 Project Overview
